@@ -1,0 +1,8 @@
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\bin\Debug\Provaaa.exe.config
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\bin\Debug\Provaaa.exe
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\bin\Debug\Provaaa.pdb
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\obj\Debug\Provaaa.csproj.AssemblyReference.cache
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\obj\Debug\Provaaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\obj\Debug\Provaaa.csproj.CoreCompileInputs.cache
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\obj\Debug\Provaaa.exe
+C:\Users\NoUser\source\repos\Provaaa\Provaaa\obj\Debug\Provaaa.pdb
